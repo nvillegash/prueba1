@@ -1,10 +1,12 @@
+PRUEBA 1
+
 Ultimo cambio Master
 
 Hola, esta es mi historia.
 
 Me llamo Nico.
 
-Tengo 24 años, nacpi en Chile
+Tengo 24 años, naci en Chile
 
 Cabecera
 
