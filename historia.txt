@@ -8,8 +8,4 @@ Me llamo Nico.
 
 Tengo 24 años, naci en Chile
 
-Cabecera
-
-xdddd
-
-Este es el cambio de la rama cabecera
+PRUEBA 2
