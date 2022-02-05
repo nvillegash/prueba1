@@ -1,4 +1,4 @@
-PRUEBA 1
+Veamos si funciona esto
 
 Ultimo cambio Master
 
@@ -8,4 +8,6 @@ Me llamo Nico.
 
 Tengo 24 años, naci en Chile
 
-PRUEBA 2
+Este es el cambio de la rama cabecera
+
+Editar en Github
