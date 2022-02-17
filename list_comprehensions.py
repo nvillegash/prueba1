@@ -2,7 +2,7 @@ def main():
     # squares = []                  # I create the list "squares"
     # for i in range(1,101):        # It does not include 101, it is up to 100
     #     if i % 3 != 0:            # If the remainder of the division of the number i by 3 is different from 0
-    #         squares.append(i**2)  # Incluyo en la lista a todos los i**2
+    #         squares.append(i**2)  # I include in the list all the i ** 2
 
     # squares = [i**2 for i in range(1,101) if i % 3 !=0]
     # For each i from 1 to 100 that is not divisible by 3, its i squared will be displayed

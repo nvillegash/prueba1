@@ -10,7 +10,7 @@ def main():
     try:
         num = int(input("Enter a number: "))
         if num < 1:
-            raise Exception("Ingrese un número positivo.")
+            raise Exception("Please enter a positive number.")
         print(divisors(num))
         print("Finished my program.")
     except ValueError:
